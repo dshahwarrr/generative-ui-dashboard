@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # VantageAI Dashboard
 
 An intent-driven sales dashboard built with Generative UI. Users ask natural 
@@ -32,8 +31,4 @@ Get a free Groq API key at https://console.groq.com
 
 ## Article
 
-Built as part of this tutorial: https://medium.com/vannguardai/beyond-the-chatbot-building-generative-ui-with-vercel-ai-sdk-f8b73cec6e2b
-=======
-# generative-ui-dashboard
-Intent-driven sales dashboard using Generative UI, Vercel AI SDK v6, Groq, and Next.js 15
->>>>>>> 24cb762e6a8b7ad6f6e1ce082c304b9280bd3ca9
+Built as part of this tutorial: [https://medium.com/vannguardai/beyond-the-chatbot-building-generative-ui-with-vercel-ai-sdk-f8b73cec6e2b]
