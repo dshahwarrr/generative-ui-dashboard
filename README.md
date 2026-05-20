@@ -25,7 +25,7 @@ Get a free Groq API key at https://console.groq.com
 ## What You Can Ask
 
 - "Show me this month's revenue metrics"
-- "Show a sales chart for H1 2025"
+- "Show a sales chart for H1 2026"
 - "Which of our customers are at risk?"
 - "How is our product performance?"
 
